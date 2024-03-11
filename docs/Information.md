@@ -1,6 +1,3 @@
-## ¿Qué tipo de datos aparecen retratados?
-
-
 ## ¿Qué rango de tiempo? 
 Se ha encontrado documentación entre 1801 y 2022. 
 
